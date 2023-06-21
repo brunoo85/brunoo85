@@ -8,7 +8,7 @@
 <br>
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=brunoo85&show_icons=true&theme=algolia" alt="Caroline Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoo85&theme=algolia&hide_border=true&layout=compact" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoo85&theme=algolia&layout=compact" />
 
 <br><br>
 
