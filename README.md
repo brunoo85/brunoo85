@@ -1,12 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Bruno+Cesar;I'm+23+years+old;I'm+from+Brazil;I'm+a+technology+student;And+Front-End+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Bruno+Cesar;I'm+24+years+old;I'm+from+Brazil;I'm+a+technology+student;And+Front-End+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ### Hi  👋  !
 -I'm [Bruno Cesar](https://github.com/brunoo85) from UFRN and Ada Tech
 - 🔭 I’m currently working on  **Frontend Development**
 - 😄 I have a **passionate** relationship with **Programming** (most of time)
-- 🌱 I’m currently Working with **Javascript and Angular**
+- 🌱 I’m currently Working with **Javascript and React JS**
 - 💬 Ask me about anything, I am happy to help
 - 😄 Pronouns: **He, Him**
 
